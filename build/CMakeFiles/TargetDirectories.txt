@@ -1,0 +1,4 @@
+/home/prakarnj/CppSerial/build/CMakeFiles/rebuild_cache.dir
+/home/prakarnj/CppSerial/build/CMakeFiles/edit_cache.dir
+/home/prakarnj/CppSerial/build/CMakeFiles/serial_node.dir
+/home/prakarnj/CppSerial/build/CMakeFiles/serial.dir

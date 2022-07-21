@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/serial_node.dir/src/serial_node.cpp.o  -o serial_node  -Wl,-rpath,/home/prakarnj/CppSerial/build libserial.so 
